@@ -73,8 +73,8 @@ function App() {
         {selectedDay === 3 && <DayThree />}
         {selectedDay === 4 && <DayFour />}
 
-        <div className="mt-8 pt-8 border-t border-gray-700">
-          <div className="flex items-center">
+        <div className="mt-8 pt-8 border-t border-gray-700 text-center justify-center">
+          <div className="flex items-center justify-center">
             <img 
               src="/robots-are-smart.gif" 
               alt="Author avatar"
