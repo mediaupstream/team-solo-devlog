@@ -1,12 +1,15 @@
-import { useState } from "react";
+import {  useEffect, useState } from "react";
 import DayOne from "./posts/DayOne"
 import DayTwo from "./posts/DayTwo"
 import DayThree from "./posts/DayThree"
 import DayFour from "./posts/DayFour"
 
 function App() {
-
   const [selectedDay, setSelectedDay] = useState(1);
+
+  useEffect(() => {
+    document.body.setAttribute('data-day', selectedDay.toString());
+  }, [selectedDay]);
 
   return (
     <div className="text-center py-8">
