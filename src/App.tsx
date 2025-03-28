@@ -86,7 +86,7 @@ function App() {
             />
             <div className="ml-4 ">
               <p className="text-[#999]">𝒯ℯ𝒶𝓂 𝒮ℴ𝓁ℴ <span className="text-[12px]">&copy; ????</span></p>
-              <p className="text-[#999] text-[8px]">what even is this?</p>
+              <p className="text-[#999] text-[10px]">More like team YOLO</p>
             </div>
           </div>
         </div>
