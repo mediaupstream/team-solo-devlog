@@ -30,6 +30,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 html[data-day="2"], body[data-day="2"] {
   --gradientTop: #27212f;
   --gradientBottom: #1c1028;
