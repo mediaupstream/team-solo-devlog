@@ -34,7 +34,7 @@ function App() {
 
         <article>
         <div className="flex flex-row gap-8 items-center justify-end p-4">
-            <a href="https://app-previews-pcd1oyh74.axiom.dev/" target="_blank" className=" !text-sky-300 text-sm border hover:z-50 border-sky-300 px-2 py-1 font-bold hover:bg-sky-900 hover:text-black inline-block transition-all hover:scale-250">
+            <a href="https://app-previews-17w0bw4yw.axiom.dev/" target="_blank" className=" !text-sky-300 text-sm border hover:z-50 border-sky-300 px-2 py-1 font-bold hover:bg-sky-900 hover:text-black inline-block transition-all hover:scale-250">
               <span className="inline-block transition-all">Demo</span>
             </a>
             <a href="https://github.com/axiomhq/app/pull/4101" target="_blank" className=" !text-sky-300 text-sm border hover:z-50 border-sky-300 px-2 py-1 font-bold hover:bg-sky-900 hover:text-black inline-block transition-all hover:scale-250">
