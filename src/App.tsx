@@ -9,6 +9,7 @@ function App() {
 
   useEffect(() => {
     document.body.setAttribute('data-day', selectedDay.toString());
+    document.documentElement.setAttribute('data-day', selectedDay.toString());
   }, [selectedDay]);
 
   return (
