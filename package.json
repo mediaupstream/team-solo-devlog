@@ -1,8 +1,8 @@
 {
-  "name": "team-solo",
+  "name": "team-solo-devlog",
   "private": true,
   "type": "module",
-  "homepage": "https://{username}.github.io/{repository-name}",
+  "homepage": "https://mediaupstream.github.io/team-solo-devlog",
   "scripts": {
     "start": "vite --port 3000",
     "build": "vite build && tsc",
